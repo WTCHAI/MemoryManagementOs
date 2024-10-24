@@ -3,7 +3,7 @@
 Welcome to Rust! This README will guide you through the basic steps to start programming with Rust, using Cargo as your build tool and package manager.
 
 ## Prerequisites
-If you're never install rust
+
 Make sure you have the following installed:
 
 - **Rust**: The Rust programming language.
@@ -22,3 +22,11 @@ cargo --version
 
 cargo run
 ```
+
+Make sure you stay in folder directory correctly
+
+memory_management/
+├── Cargo.toml  
+└── src
+    └── main.rs 
+
